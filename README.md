@@ -1,6 +1,4 @@
-**# Search-Engine-using-tools-and-agent-practise-
-Practice project: Streamlit chatbot using LangChain + Groq with search tools (Wiki, ArXiv, DuckDuckGo). Built in Colab and exposed via Cloudflare Tunnel to understand agents, tools, and deployment flow.
-**# LangChain + Groq: AI Search Agent 🤖
+# LangChain + Groq: AI Search Agent 🤖
 
 A simple practice project to learn how to build a ** Agent** using LangChain and Groq. This chatbot doesn't just talk; it can search the web, Wikipedia, and Arxiv to provide up-to-date information.
 
